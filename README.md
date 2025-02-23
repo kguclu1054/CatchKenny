@@ -24,4 +24,4 @@ Installation
 
 Screenshots
 
-https://drive.google.com/drive/u/1/home
+[https://drive.google.com/drive/u/1/home](https://drive.google.com/file/d/1LqEo89vhacV3n5VIu0ssy8ek9m2NEV3I/view?usp=drive_link)
